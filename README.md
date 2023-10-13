@@ -1,2 +1,0 @@
-# luarChallenge
-challenge para arcuri
