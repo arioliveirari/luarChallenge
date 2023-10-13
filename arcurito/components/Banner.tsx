@@ -9,7 +9,7 @@ export default function Banner() {
         <div className="row">
           <div className="banner col-12 text-center">
             <h1>
-              POKEDEX DE ARCURITO
+              POKEDEX DE lu
             </h1>
           </div>
         </div>
