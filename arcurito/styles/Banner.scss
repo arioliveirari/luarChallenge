@@ -1,8 +1,16 @@
 .banner{
-    background-color: rgb(255, 231, 11);
     height: 200px;
+    font-family: myFirstFont;
+    
+
     h1{
+      width: auto;
       font-size: 80px;
+      padding: 20px 0 0 0;
+      font-size: bolder;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-shadow: 2px 2px 5px rgb(33, 32, 32) ;
+      
     }
     
   }

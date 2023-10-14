@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 export default function Banner() {
 
     // js podes hacer coistas
@@ -9,7 +10,7 @@ export default function Banner() {
         <div className="row">
           <div className="banner col-12 text-center">
             <h1>
-              POKEDEX DE lu
+              POKEDEX 
             </h1>
           </div>
         </div>

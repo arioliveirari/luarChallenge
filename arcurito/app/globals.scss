@@ -1,3 +1,13 @@
 @import '../styles/Banner.scss';
 @import '../styles/Description.scss';
 @import '../styles/Pokedex.scss';
+@font-face {
+    font-family: myFirstFont;
+    src: local("jueguito"), url(../font/jueguito.ttf) format("truetype");
+}
+
+body{
+   background: linear-gradient(aqua, blue);
+   width: 100%;
+   
+}
